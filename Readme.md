@@ -11,7 +11,7 @@ Always learning, fully focused on the future of tech. 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-Omi--nox-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Omi-Nox)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/umar-asghar-000a253b2/?skipRedirect=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar%20Asghar-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/umar-asghar-000a253b2/?skipRedirect=true)
 
 [![X](https://img.shields.io/badge/X-@GhostedWhere_-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/GhostedWhere_)
 
