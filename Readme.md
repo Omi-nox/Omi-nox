@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Umar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Python+Developer;Full+Stack+Developer;React+%7C+Tailwind+CSS;Learning+AI+Agents+%26+LLMs;Always+Learning+🚀" />
+<img src="https://herokuapp.com+🚀" />
 
 <img src="https://komarev.com"/>
 
@@ -27,8 +27,8 @@
       <br/>
       <code><b>"Consistency beats talent."</b></code>
       <br/><br/>
-      <!-- LeetCode Stats Dynamic Card -->
-      <a href="https://leetcode.com/u/Umar_AK/">
+      <!-- LeetCode Stats Card -->
+      <a href="https://leetcode.com">
         <img src="https://vercel.app" alt="LeetCode Stats" width="85%" />
       </a>
     </td>
@@ -43,14 +43,14 @@
   <a href="https://umar-khan-kappa.vercel.app/">
     <img src="https://shields.io"/>
   </a>
-  <a href="https://leetcode.com/u/Umar_AK/">
+  <a href="https://leetcode.com">
     <img src="https://shields.io"/>
   </a>
-  <a href="https://www.linkedin.com/in/umar-asghar-000a253b2">
+  <a href="https://linkedin.com">
     <img src="https://shields.io"/>
   </a>
   <a href="mailto:umarasghar508@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://shields.io"/>
   </a>
 </p>
 
@@ -58,37 +58,21 @@
 
 # 💻 Tech Stack
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
+### 🚀 Languages & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
 </p>
 
-<p align="center">
-  <!-- Frontend & Backend -->
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
-
-<p align="center">
-  <!-- AI / ML -->
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
-
-<p align="center">
-  <!-- Tools -->
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
+### 🛠️ Tools & Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+  <img src="https://shields.io" height="40"/>
+  <img src="https://shields.io" height="40"/>
+  <img src="https://shields.io" height="40"/>
 </p>
 
 ---
@@ -97,7 +81,7 @@
 
 <p align="center">
   <img height="170" src="https://vercel.app"/>
-  <img height="170" src="https://herokuapp.com"/>
+  <img height="170" src="https://demolab.com"/>
 </p>
 
 <p align="center">
@@ -109,7 +93,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umar6x9&theme=tokyonight&margin-w=10&no-frame=true"/>
+  <img src="https://vercel.app"/>
 </p>
 
 ---
@@ -117,7 +101,7 @@
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umar6x9&theme=tokyo-night" width="95%"/>
+  <img src="https://vercel.app" width="95%"/>
 </p>
 
 ---
@@ -125,7 +109,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Umar6x9/Umar6x9/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <img src="https://githubusercontent.com" width="95%"/>
 </p>
 
 ---
