@@ -1,79 +1,193 @@
-# Hi I am M.Umar 💫
-### 🤖 AI Student & Full-Stack Developer | Python & AI Automation Enthusiast
+<div align="center">
+
+# 👋 Hi, I'm Muhammad Umar
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Python+Developer;Full+Stack+Developer;React+%7C+Tailwind+CSS;Learning+AI+Agents+%26+LLMs;Always+Learning+🚀" />
+
+<img src="https://komarev.com/ghpvc/?username=Umar6x9&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+🎓 AI Student
+
+🐍 Intermediate Python Developer
+
+⚛️ Learning React & Full Stack Development
+
+🤖 Exploring AI Agents, LLMs & Machine Learning
+
+📚 Solving DSA Problems on LeetCode
+
+🌱 Currently improving every single day
+
+> "Consistency beats talent."
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://umar-khan-kappa.vercel.app/"><img src="https://shields.io" alt="Portfolio" /></a>
-  <a href="https://leetcode.com"><img src="https://shields.io" alt="LeetCode" /></a>
-  <a href="https://linkedin.com/in/umar-asghar-000a253b2/"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="https://x.com/GhostedWhere_"><img src="https://shields.io" alt="X" /></a>
-  <a href="mailto:umarasghar508@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+
+<a href="https://umar-khan-kappa.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Umar_AK/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/umar-asghar-000a253b2">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:umarasghar508@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 👤 About Me
-- ⚡ **Focus:** Building intelligent web applications and AI automation systems.
-- 📚 **Learning:** Advanced Full-Stack Development and Deep Learning algorithms.
-- 🚀 **Goal:** Fully focused on the future of tech and creating high-impact software.
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+### AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+
+</p>
 
 ---
 
-### 💻 Tech Stack & Skills
+# 📈 GitHub Analytics
 
-#### 🚀 Core Languages & DSA
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-
-#### 🌐 Frontend Development
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-
-#### ⚙️ Backend & Data Science
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-
-#### 🛠️ Tools & Deployment
-![](https://shields.io)
-![](https://shields.io)
-
----
-
-### 🐍 Contribution Snake Animation
-<!-- Yeh animation GitHub Action chalne ke baad active hogi -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
-</picture>
-
----
-
-### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Omi-nox&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=Omi-nox&theme=nightowl&hide_border=false" height="150" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Umar6x9&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Umar6x9&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Omi-nox&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
-</p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omi-nox&theme=radical&no-frame=false&no-bg=false&margin-w=4" #gh-dark-mode-only />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar6x9&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Umar6x9&theme=tokyonight&margin-w=10&no-frame=true"/>
+
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Omi-nox&icon=0&color=0" alt="Views" />
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umar6x9&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Umar6x9/Umar6x9/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
+
+---
+
+# 📌 Current Goals
+
+✅ Master DSA
+
+✅ Become AI Engineer
+
+✅ Build AI Agents
+
+✅ Learn MERN Stack
+
+✅ Open Source Contributions
+
+✅ 500+ LeetCode Problems
+
+---
+
+# ⚡ Fun Fact
+
+```python
+while True:
+
+    Learn()
+
+    Build()
+
+    Improve()
+
+    Repeat()
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
