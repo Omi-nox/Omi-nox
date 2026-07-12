@@ -15,7 +15,7 @@
 
 [![X](https://img.shields.io/badge/X-@GhostedWhere_-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/GhostedWhere_)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@umarkhan_.ysfxi_-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/umarkhan_.ysfxi_/)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-@umarkhan_.ysfxi_-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/umarkhan_.ysfxi_/) -->
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:umarasghar508@gmail.com)
 
@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-- 🎓 AI Student
+- 🎓 AI Undergraduate
 - 🐍 Python Developer
 - ⚛️ Learning React & Tailwind CSS
 - 🤖 Exploring Machine Learning, LLMs & AI Agents
@@ -62,13 +62,15 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Omi-nox&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Omi-nox&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Omi-nox&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Omi-nox&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ## 🐍 Contribution Snake
 
@@ -78,18 +80,9 @@
 
 </p>
 
-## 🔗 Featured Links
-
-- 🌐 Portfolio: https://umar-khan-kappa.vercel.app/
-- 💻 LeetCode: https://leetcode.com/u/Umar_AK/
-- 💼 LinkedIn: https://www.linkedin.com/in/umar-asghar-000a253b2/
 
 ---
 
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Omi-nox&style=for-the-badge"/>
-</p>
 
 <div align="center">
 
