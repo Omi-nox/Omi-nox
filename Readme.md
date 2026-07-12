@@ -70,15 +70,13 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Omi-nox&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🐍 Snake Animation
+## 🐍 Contribution Snake
 
-> Enable the included GitHub Action (`snake.yml`) then use:
+<p align="center">
 
-```md
 <img src="https://raw.githubusercontent.com/Omi-nox/Omi-nox/output/github-contribution-grid-snake-dark.svg"/>
-```
 
----
+</p>
 
 ## 🔗 Featured Links
 
