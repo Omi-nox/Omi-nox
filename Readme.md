@@ -1,20 +1,26 @@
 <div align="center">
 
 # 👋 Hi, I'm Muhammad Umar
-# 👋 Hi, I'm Muhammad Umar
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Student;Python+Developer;React+Developer;Machine+Learning+Enthusiast;Future+AI+Engineer"/>
 </p>
 
-<p align="center">
-  <a href="https://umar-khan-kappa.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="45"/></a>
-  <a href="https://leetcode.com/u/Umar_AK/"><img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="45"/></a>
-  <a href="https://www.linkedin.com/in/umar-asghar-000a253b2/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="mailto:umarasghar508@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://github.com/Omi-nox"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-</p>
 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-9d4edd?style=for-the-badge\&logo=vercel\&logoColor=white)](https://umar-khan-kappa.vercel.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Omi--nox-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Omi-Nox)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar%20Asghar-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/umar-asghar-000a253b2/?skipRedirect=true)
+
+[![X](https://img.shields.io/badge/X-@GhostedWhere_-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/GhostedWhere_)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@umarkhan_.ysfxi_-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/umarkhan_.ysfxi_/)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:umarasghar508@gmail.com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Umar__AK-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Umar_AK/)
 ---
 
 ## 🚀 About Me
@@ -27,6 +33,33 @@
 - 🌱 Building Full-Stack Projects
 
 ---
+# 🚀 About Me
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      🎓 <b>AI & Machine Learning</b> Student<br/><br/>
+      🐍 Intermediate <b>Python Developer</b><br/><br/>
+      ⚛️ Mastering <b>React & Full Stack</b> (MERN)<br/><br/>
+      🤖 Exploring <b>AI Agents, LLMs & Automation</b><br/><br/>
+      📚 Solving <b>DSA Problems</b> Daily<br/><br/>
+      🌱 Improving every single day
+    </td>
+    <td width="50%" valign="top" align="center">
+      <br/>
+      <code><b>"Consistency beats talent."</b></code>
+      <br/><br/>
+      <!-- LeetCode Stats Card (Working) -->
+      <a href="https://leetcode.com/u/Umar_AK/">
+        <img src="https://leetcode-stats-api.herokuapp.com/Umar_AK/?theme=dark" alt="LeetCode Stats" width="85%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 
 ## 💻 Tech Stack
 
@@ -41,19 +74,31 @@
 </p>
 
 ---
+# 💻 Tech Stack
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Omi-nox&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Omi-nox&theme=tokyonight&hide_border=true"/>
+### 🚀 Languages & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
 </p>
 
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omi-nox&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🛠️ Tools & Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+  <img src="https://shields.io" height="40"/>
+  <img src="https://shields.io" height="40"/>
+  <img src="https://shields.io" height="40"/>
 </p>
 
 ---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Omi-nox&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Omi-nox&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Omi-nox&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📈 Contribution Graph
 
@@ -63,13 +108,14 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Omi-nox&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Omi-nox&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Omi-nox&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🐍 Snake Animation
 
@@ -96,147 +142,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Omi-nox&style=for-the-badge"/>
 </p>
-
-<img src="https://herokuapp.com+🚀" />
-
-<img src="https://komarev.com"/>
-
-</div>
-
----
-
-# 🚀 About Me
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <br/>
-      🎓 <b>AI & Machine Learning</b> Student<br/><br/>
-      🐍 Intermediate <b>Python Developer</b><br/><br/>
-      ⚛️ Mastering <b>React & Full Stack</b> (MERN)<br/><br/>
-      🤖 Exploring <b>AI Agents, LLMs & Automation</b><br/><br/>
-      📚 Solving <b>DSA Problems</b> Daily<br/><br/>
-      🌱 Improving every single day
-    </td>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <code><b>"Consistency beats talent."</b></code>
-      <br/><br/>
-      <!-- LeetCode Stats Card -->
-      <a href="https://leetcode.com">
-        <img src="https://vercel.app" alt="LeetCode Stats" width="85%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://umar-khan-kappa.vercel.app/">
-    <img src="https://shields.io"/>
-  </a>
-  <a href="https://leetcode.com">
-    <img src="https://shields.io"/>
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://shields.io"/>
-  </a>
-  <a href="mailto:umarasghar508@gmail.com">
-    <img src="https://shields.io"/>
-  </a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-### 🚀 Languages & Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
-
-### 🛠️ Tools & Libraries
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-  <img src="https://shields.io" height="40"/>
-  <img src="https://shields.io" height="40"/>
-  <img src="https://shields.io" height="40"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://vercel.app"/>
-  <img height="170" src="https://demolab.com"/>
-</p>
-
-<p align="center">
-  <img width="51%" src="https://vercel.app"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://vercel.app"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://vercel.app" width="95%"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://githubusercontent.com" width="95%"/>
-</p>
-
----
-
-# 📌 Current Goals
-
-<table align="center" width="100%">
-  <tr>
-    <td>✅ Master DSA</td>
-    <td>✅ Become AI Engineer</td>
-    <td>✅ Build AI Agents</td>
-  </tr>
-  <tr>
-    <td>✅ Learn MERN Stack</td>
-    <td>✅ Open Source Contributions</td>
-    <td>✅ 500+ LeetCode Problems</td>
-  </tr>
-</table>
-
----
-
-# ⚡ Fun Fact
-
-```python
-while True:
-    Learn()
-    Build()
-    Improve()
-    Repeat()
-```
-
----
 
 <div align="center">
 
