@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Muhammad Umar
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Student;Python+Developer;React+Developer;Machine+Learning+Enthusiast;Future+AI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Student;Python+Developer;MERN+Dev;Machine+Learning+AI+Enthusiast;Future+AI+Engineer"/>
 </p>
 
 
